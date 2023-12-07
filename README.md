@@ -1,9 +1,5 @@
-# toonflix
+# Webtoon App
 
-## [UI Challenge](https://dribbble.com/shots/19858341-Finnancial-Mobile-IOS-App)
+![Screenshot](./screenshots/webtoon1.png)
 
-![Screenshot](./ui_challenge.png)
-
-## [Pomodoro]
-
-![Screenshot](./pomodoro.png)
+![Screenshot](./screenshots/webtoon2.png)
